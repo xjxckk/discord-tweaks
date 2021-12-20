@@ -1,4 +1,4 @@
-# BetterDiscord Custom CSS Tweaks
+### BetterDiscord Custom CSS Tweaks
 Includes inline channel tabs and hiding of channel tabs when in settings
 
 ![BetterDiscord Custom CSS Tweaks](https://github.com/xjxckk/discord-tweaks/blob/main/preview.png)
